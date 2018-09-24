@@ -21,6 +21,7 @@ A list of awesome reading comprehension dataset
 1. [CNN/Daily Mail - Eng](https://github.com/deepmind/rc-data)  
 2. [LAMBADA - Eng](http://clic.cimec.unitn.it/lambada/)  
 3. [Children's Book Test (CBT) - Eng](https://research.facebook.com/research/babi/)  
+4. [PD&CFT - Simplified-Chi](https://github.com/ymcui/Chinese-RC-Dataset)  
 
 
 ### Span Based
