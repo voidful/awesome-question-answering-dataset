@@ -38,6 +38,8 @@ A list of awesome reading comprehension dataset
 1.  [MSMARCO - Eng](http://www.msmarco.org/) 
 2.  [DuReader - Simplified-Chi](https://github.com/baidu/DuReader) 
 3.  [Triviaqa - Eng](http://nlp.cs.washington.edu/triviaqa/) 
+4.  [hotpotqa - Eng](https://hotpotqa.github.io/) 
+5.  [CoQA - Eng](https://stanfordnlp.github.io/coqa/) 
 
 
 -----
