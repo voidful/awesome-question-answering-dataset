@@ -15,6 +15,7 @@ A list of awesome reading comprehension dataset
 ### Multiple choice
 
 1.  [MC Test - Eng](http://research.microsoft.com/en-us/um/redmond/projects/mctest/)  
+2.  [TOEFL-QA - Eng](https://github.com/iamyuanchung/TOEFL-QA)  
 
 ### Cloze style
 
