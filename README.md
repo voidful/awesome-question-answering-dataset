@@ -37,6 +37,7 @@ A list of awesome reading comprehension dataset
 -   [QuAC - Eng](http://quac.ai/)
 -   [DuoRC - Eng](https://duorc.github.io/)
 -   [Drop - Eng](https://allennlp.org/drop)
+-   [MiningZhiDaoQACorpus - Simplified-Chi](https://github.com/liuhuanyong/MiningZhiDaoQACorpus)
 
 ### User log
 -   [MSMARCO - Eng](http://www.msmarco.org/) 
