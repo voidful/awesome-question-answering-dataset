@@ -47,6 +47,7 @@ A list of awesome reading comprehension dataset
 -   [CoQA - Eng](https://stanfordnlp.github.io/coqa/) 
 -   [QUSAR - Eng](https://github.com/bdhingra/quasar)
 -   [SearchQA - Eng](https://github.com/nyu-dl/SearchQA)
+-   [CosmosQA - Eng](https://wilburone.github.io/cosmos/)
 
 -----
 ### Contributing
