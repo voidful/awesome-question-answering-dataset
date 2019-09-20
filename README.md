@@ -17,6 +17,7 @@ A list of awesome reading comprehension dataset
 -   [TOEFL-QA - Eng](https://github.com/iamyuanchung/TOEFL-QA)  
 -   [MultiRC - Eng](http://cogcomp.org/multirc/)
 -   [RACE - Eng](http://www.cs.cmu.edu/~glai1/data/race/)
+-   [CommonsenseQA - Eng](https://www.tau-nlp.org/commonsenseqa)   
 
 ### Cloze style
 -  [CNN/Daily Mail - Eng](https://github.com/deepmind/rc-data)  
@@ -48,7 +49,7 @@ A list of awesome reading comprehension dataset
 -   [QUSAR - Eng](https://github.com/bdhingra/quasar)
 -   [SearchQA - Eng](https://github.com/nyu-dl/SearchQA)
 -   [CosmosQA - Eng](https://wilburone.github.io/cosmos/)
-
+-   [ComplexWebQuestions - Eng](https://www.tau-nlp.org/compwebq)
 -----
 ### Contributing
 Have anything in mind that you think is awesome and would fit in this list? Feel free to send a [pull request](https://github.com/voidful/awesome-reading-comprehension-dataset). 
