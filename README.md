@@ -39,6 +39,8 @@ A list of awesome reading comprehension dataset
 -   [DuoRC - Eng](https://duorc.github.io/)
 -   [Drop - Eng](https://allennlp.org/drop)
 -   [MiningZhiDaoQACorpus - Simplified-Chi](https://github.com/liuhuanyong/MiningZhiDaoQACorpus)
+-   [MLQA - Multi-Lang](https://github.com/facebookresearch/MLQA)
+-   [MRQA - Eng(Multi-Dataset)](https://mrqa.github.io)
 
 ### User log
 -   [MSMARCO - Eng](http://www.msmarco.org/) 
@@ -50,6 +52,8 @@ A list of awesome reading comprehension dataset
 -   [SearchQA - Eng](https://github.com/nyu-dl/SearchQA)
 -   [CosmosQA - Eng](https://wilburone.github.io/cosmos/)
 -   [ComplexWebQuestions - Eng](https://www.tau-nlp.org/compwebq)
+-   [CKBQA - Simplified-Chi](https://github.com/pkumod/CKBQA)
+-   [TF 2.0 QA - Eng](https://www.kaggle.com/c/tensorflow2-question-answering)
 -----
 ### Contributing
 Have anything in mind that you think is awesome and would fit in this list? Feel free to send a [pull request](https://github.com/voidful/awesome-reading-comprehension-dataset). 
