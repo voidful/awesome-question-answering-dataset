@@ -17,7 +17,8 @@ A list of awesome reading comprehension dataset
 -   [TOEFL-QA - Eng](https://github.com/iamyuanchung/TOEFL-QA)  
 -   [MultiRC - Eng](http://cogcomp.org/multirc/)
 -   [RACE - Eng](http://www.cs.cmu.edu/~glai1/data/race/)
--   [CommonsenseQA - Eng](https://www.tau-nlp.org/commonsenseqa)   
+-   [CommonsenseQA - Eng](https://www.tau-nlp.org/commonsenseqa)  
+-   [CosmosQA - Eng](https://wilburone.github.io/cosmos/)  
 
 ### Cloze style
 -  [CNN/Daily Mail - Eng](https://github.com/deepmind/rc-data)  
@@ -50,7 +51,6 @@ A list of awesome reading comprehension dataset
 -   [CoQA - Eng](https://stanfordnlp.github.io/coqa/) 
 -   [QUSAR - Eng](https://github.com/bdhingra/quasar)
 -   [SearchQA - Eng](https://github.com/nyu-dl/SearchQA)
--   [CosmosQA - Eng](https://wilburone.github.io/cosmos/)
 -   [ComplexWebQuestions - Eng](https://www.tau-nlp.org/compwebq)
 -   [CKBQA - Simplified-Chi](https://github.com/pkumod/CKBQA)
 -   [TF 2.0 QA - Eng](https://www.kaggle.com/c/tensorflow2-question-answering)
