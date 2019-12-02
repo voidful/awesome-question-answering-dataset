@@ -42,6 +42,7 @@ A list of awesome reading comprehension dataset
 -   [MiningZhiDaoQACorpus - Simplified-Chi](https://github.com/liuhuanyong/MiningZhiDaoQACorpus)
 -   [MLQA - Multi-Lang](https://github.com/facebookresearch/MLQA)
 -   [MRQA - Eng(Multi-Dataset)](https://mrqa.github.io)
+-   [MultiQA - Eng(Multi-Dataset)](https://github.com/alontalmor/MultiQA)
 
 ### User log
 -   [MSMARCO - Eng](http://www.msmarco.org/) 
