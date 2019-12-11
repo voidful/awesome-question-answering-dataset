@@ -56,7 +56,7 @@ A list of awesome reading comprehension dataset
 -   [CKBQA - Simplified-Chi](https://github.com/pkumod/CKBQA)
 -   [TF 2.0 QA - Eng](https://www.kaggle.com/c/tensorflow2-question-answering)
 -   [bAbI - Eng](https://github.com/facebook/bAbI-tasks)
-
+-   [Physical IQA - Eng](https://leaderboard.allenai.org/physicaliqa/submissions/public)
 -----
 ### Contributing
 Have anything in mind that you think is awesome and would fit in this list? Feel free to send a [pull request](https://github.com/voidful/awesome-reading-comprehension-dataset). 
