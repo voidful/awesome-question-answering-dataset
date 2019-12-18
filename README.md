@@ -19,6 +19,7 @@ A list of awesome reading comprehension dataset
 -   [RACE - Eng](http://www.cs.cmu.edu/~glai1/data/race/)
 -   [CommonsenseQA - Eng](https://www.tau-nlp.org/commonsenseqa)  
 -   [CosmosQA - Eng](https://wilburone.github.io/cosmos/)  
+-   [C3 - Simplified-Chi](https://dataset.org/c3/)
 
 ### Cloze style
 -  [CNN/Daily Mail - Eng](https://github.com/deepmind/rc-data)  
