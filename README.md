@@ -14,7 +14,7 @@ A list of awesome question answering dataset
 
 ### Multiple choice
 -   [MC Test - Eng](https://github.com/voidful/mctest)  
-```text
+```text   
 ***************************************************
 Story:            mc160.test.0
 Author:           138354254
@@ -47,9 +47,9 @@ After a week, Todd made his first try to get to the rock, and his dad followed h
  B) He carved Todd's name into a tree
  C) He practiced even harder
  D) He swam to the rock again
-```
+```   
 -   [TOEFL-QA - Eng](https://github.com/iamyuanchung/TOEFL-QA)  
-```text
+```text   
 SENTENCE hi .
 SENTENCE i saw your ad in the campus news paper .
 SENTENCE oh .
@@ -112,9 +112,9 @@ OPTION to discuss a job opportunity she had heard about 0
 OPTION to learn about options for advertising her business 1
 OPTION to see if she can change a previous print order 0
 OPTION to discuss a design idea that she has for business cards 0
-```
+```   
 -   [MultiRC - Eng](http://cogcomp.org/multirc/)
-```text
+```text   
 {
  "data": [
   {
@@ -140,9 +140,9 @@ OPTION to discuss a design idea that she has for business cards 0
   }
  ]
 }
-```
+```   
 -   [RACE - Eng](http://www.cs.cmu.edu/~glai1/data/race/)
-```text
+```text   
 {
  "answers": [
   "A",
@@ -169,9 +169,9 @@ OPTION to discuss a design idea that she has for business cards 0
  "article": "If it really is what's on the inside that counts, then a lot of thin people might be in trouble.\nSome doctors now think that the internal  fat surrounding important organs like the heart or liver could be as dangerous as the external fat which can be noticed more easily.\n\"Being thin doesn't surely mean you are not fat,\" said Dr Jimmy Bell at Imperial College. Since 1994, Bell and his team have scanned nearly 800 people with MRI machines to create \"fat maps\" showing where people store fat.\nAccording to the result, people who keep their weight through diet rather than exercise are likely to have major deposits of internal fat, even if they are slim.\nEven people with normal Body Mass Index scores can have surprising levels of fat deposits inside. Of the women, as many as 45 percent of those with normal BMI scores (20 to 25) actually had too high levels of internal fat. Among men, the percentage was nearly 60 percent.\nAccording to Bell, people who are fat on the inside are actually on the edge of being fat. They eat too many fatty and sugary foods, but they are not eating enough to be fat. Scientists believe we naturally store fat around the belly first, but at some point, the body may start storing it elsewhere.\nDoctors are unsure about the exact dangers of internal fat, but some think it has something to do with heart disease and diabetes. They want to prove that internal fat damages the body's communication systems.\nThe good news is that internal fat can be easily burned off through exercise or even by improving your diet. \"If you want to be healthy, there is no _ . Exercise has to be an important part of your lifestyle,\" Bell said.",
  "id": "high2693.txt"
 }
-```
+```   
 -   [CommonsenseQA - Eng](https://www.tau-nlp.org/commonsenseqa)  
-```text
+```text   
 {
  "answerKey": "A",
  "id": "1afa02df02c908a558b4036e80242fac",
@@ -202,14 +202,14 @@ OPTION to discuss a design idea that she has for business cards 0
   "stem": "A revolving door is convenient for two direction travel, but it also serves as a security measure at a what?"
  }
 }
-```
+```   
 -   [CosmosQA - Eng](https://wilburone.github.io/cosmos/)  
-```csv
+```   csv
 id,context,question,answer0,answer1,answer2,answer3,label
 3BFF0DJK8XA7YNK4QYIGCOG1A95STE##3180JW2OT5AF02OISBX66RFOCTG5J7##A2LTOS0AZ3B28A##Blog_56156##q1_a1##378G7J1SJNCDAAIN46FM2P7T6KZEW2,"Do i need to go for a legal divorce ? I wanted to marry a woman but she is not in the same religion , so i am not concern of the marriage inside church . I will do the marriage registered with the girl who i am going to get married . But legally will there be any complication , like if the other woman comes back one day , will the girl who i am going to get married now will be in trouble or Is there any complication ?",Why is this person asking about divorce ?,If he gets married in the church he wo nt have to get a divorce .,He wants to get married to a different person .,He wants to know if he does nt like this girl can he divorce her ?,None of the above choices .,1
-```
+```   
 -   [C3 - Simplified-Chi](https://dataset.org/c3/)
-```text
+```text   
 [
  [
   [
@@ -231,11 +231,11 @@ id,context,question,answer0,answer1,answer2,answer3,label
   "47-275"
  ]
 ]
-```
+```   
 
 ### Cloze style
 -  [CNN/Daily Mail - Eng](https://github.com/deepmind/rc-data)  
-```text
+```text   
 [URL]
 
 [Context]
@@ -245,15 +245,15 @@ id,context,question,answer0,answer1,answer2,answer3,label
 [Answer]
 
 [Entity mapping]
-```
+```   
 -  [LAMBADA - Eng](https://zenodo.org/record/2630551)  
-```text
+```text   
 Context: The battery on Logan’s radio must have been on the way out. So he told himself. There was no other explanation beyond Cygan and the staff at the White House having been overrun. Lizzie opened her eyes with a flutter. They had been on the icy road for an hour without incident.
 Target sentence: Jack was happy to do all of the . Target word: driving
 ...
-```
+```   
 -  [Children's Book Test (CBT) - Eng](https://research.facebook.com/research/babi/)  
-```text
+```text   
 Context:
 1 So they had to fall a long way .	
 2 So they got their tails fast in their mouths .	
@@ -281,24 +281,24 @@ Query: `` Boots and shoes under the sea , " the XXXXX went on in a deep voice , 
 Candidates: Alice|BOOTS|Gryphon|SHOES|answer|fall|mouths|tone|way|whiting	
 	
 Answer: gryphon 
-```
+```   
 -  [PD&CFT - Simplified-Chi](https://github.com/ymcui/Chinese-RC-Dataset)  
-```text
+```text   
 9 ||| 所谓 的 “ 傻钱 ” XXXXX ， 其实 就 是 买 入 并 持有 美国 股票 这样 的 普通 组合 。
 10 ||| 这个 策略 要 比 对冲 基金 和 其它 专业 投资者 使用 的 更为 复杂 的 投资 方法 效果 好 得 多 。
 11 ||| 所谓 的 “ 傻钱 ” XXXXX ， 其实 就 是 买 入 并 持有 美国 股票 这样 的 普通 组合 。 ||| 策略
 sentence_id(space)|||(space)Query(space)|||(space)Answer
-```
+```   
 -  [CliCR - Eng](https://github.com/clips/clicr)
-```text
+```text   
 passage:
 [. . . ] A gradual improvement in clinical and laboratory status was achieved within 20 days of antituberculous treatment . The patient was then subjected to a thoracic CT scan that also showed significant radiological improvement . Thereafter , tapering of corticosteroids was initiated with no clinical relapse . The patient was discharged after being treated for a total of 30 days and continued receiving antituberculous therapy with no reported problems for a total of 6 months under the supervision of his hometown physicians . [. . . ] query:
 If steroids are used , great caution should be exercised on their gradual tapering to avoid .
 answer:
 relapse (sem type=problem, cui=C0035020)
-```
+```   
 -  [RecipeQA - Eng](https://hucvl.github.io/recipeqa/)
-```text
+```text   
 {
   "data": [
     {
@@ -369,11 +369,11 @@ relapse (sem type=problem, cui=C0035020)
     }
   ]
 }
-```
+```   
 
 ### Span Based
 -   [SQuAD - Eng](https://rajpurkar.github.io/SQuAD-explorer/)  
-```text
+```text   
 {
   "version": "v2.0",
   "data": [
@@ -412,9 +412,9 @@ relapse (sem type=problem, cui=C0035020)
     }
   ]
 }
-```
+```   
 -   [NewsQA - Eng](https://datasets.maluuba.com/NewsQA)  
-```text
+```text   
 {
     "data": [
         {
@@ -468,9 +468,9 @@ relapse (sem type=problem, cui=C0035020)
     ],
     "version": "1"
 }
-```
+```   
 -   [CMRC2018 - Simplified-Chi](https://hfl-rc.github.io/cmrc2018/task/)  
-```text
+```text   
 [
     {
         "title": "傻钱策略"
@@ -507,9 +507,9 @@ relapse (sem type=problem, cui=C0035020)
             ]
     }
 ]
-```
+```   
 -   [DRCD - Traditional-Chi](https://github.com/DRCSolutionService/DRCD)  
-```text
+```text   
 {
 "version": "1.3",
 "data": [
@@ -621,15 +621,15 @@ relapse (sem type=problem, cui=C0035020)
   }
 ]
 }
-```
+```   
 -   [NarrativeQA - Eng](https://github.com/deepmind/narrativeqa)  
-```csv
+```   csv
 document_id,set,question,answer1,answer2,question_tokenized,answer1_tokenized,answer2_tokenized
 0025577043f5090cd603c6aea60f26e236195594,test,Who is Mark Hunter?,He is a high school student in Phoenix.,A loner and outsider student with a radio station.,Who is Mark Hunter ?,He is a high school student in Phoenix .,A loner and outsider student with a radio station .
 0025577043f5090cd603c6aea60f26e236195594,test,Where does this radio station take place?,It takes place in Mark's parents basement. ,"Phoenix, Arizona",Where does this radio station take place ?,It takes place in Mark s parents basement .,"Phoenix , Arizona"
-```
+```   
 -   [QAngaroo - Eng](http://qangaroo.cs.ucl.ac.uk/leaderboard.html)
-```text
+```text   
 [
  {
   "candidates": [
@@ -688,9 +688,9 @@ document_id,set,question,answer1,answer2,question_tokenized,answer1_tokenized,an
   "answer": "german empire"
  }
 ]
-```
+```   
 -   [QuAC - Eng](http://quac.ai/)
-```text
+```text   
 {
   "data": [
     {
@@ -736,9 +736,9 @@ document_id,set,question,answer1,answer2,question_tokenized,answer1_tokenized,an
     }
   ]
 }
-```
+```   
 -   [DuoRC - Eng](https://duorc.github.io/)
-```text
+```text   
 [
  {
   "plot": "South Boston teenager Jason Tripitikas is a fan of martial arts films and awakens from a dream of a battle between the Monkey King and celestial soldiers in the clouds. He visits a pawn shop in Chinatown to buy Wuxia DVDs and discovers a golden staff. On his way home, Tripitikas is harassed by some hooligans, whose leader Lupo attempts to use him to help them rob the shop-owner Hop, who is shot by Lupo. Hop tells Tripitikas to deliver the staff to its rightful owner and Tripitikas flees with the staff. He is cornered on the rooftop before being pulled off the roof by the staff.\nWhen Tripitikas regains consciousness, he finds himself in a village in ancient China that is under attack by armored soldiers. The soldiers see his staff and attempt to seize it. He is saved by the inebriated traveling scholar Lu Yan, a supposed \"immortal,\" who remains alert and agile even when drunk. Lu tells him the story of the rivalry between the King and the Jade Warlord. The Warlord tricked the King into setting aside his magic staff, Ruyi Jingu Bang, and transformed the immortal into a stone statue, but the King cast his staff far away before the transformation. Lu ends the tale with a prophecy about a \"Seeker\" who will find the staff and free the King. Just then, they are attacked by the Warlord's men again, but manage to escape with the help of Golden Sparrow, a young woman. She reveals that her family was murdered by the Warlord, against whom she has sworn revenge.\nMeanwhile, the Warlord, upon learning about the staff, sends the witch Ni-Chang to help him retrieve it in exchange for the elixir of immortality. Tripitikas, Lu and Sparrow meet a strange man dressed in white who takes the staff away from them. Lu fights with the man (later revealed to be the Silent Monk) for the staff until the latter realizes that Tripitikas is the Seeker, and joins them in their quest to free the King. As the four travel to Five Elements Mountain, Lu and the Monk teach Tripitikas kung fu along the way. After crossing a desert, they encounter Ni-Chang and her henchmen and a battle ensues, in which Lu is mortally wounded. Tripitikasâs team takes refuge in a monastery, where they learn that Lu is actually not an immortal as he failed the test, and only the Warlordâs elixir can save his life. In desperation, Tripitikas goes to the Warlord's palace alone to exchange the staff for the elixir.\nThe Warlord asks Tripitikas to duel Ni-Chang to death, since the former can give the elixir to only one of them. Tripitikas is overpowered until his teammates and monks from the monastery arrive to join the battle. Tripitikas manages to grab the elixir and tosses it to Lu, who drinks it and recovers. The Monk passes the staff to Tripitikas, who uses it to smash the King's statue. The King is freed and the Monk is revealed to be actually one of the King's clones. Lu kills Ni-Chang. After another long battle between the King and the Warlord, the latter is eventually stabbed by Tripitikas and falls into a lava pit to his death. However, Sparrow succumbs to her wounds. The Jade Emperor, having returned from his meditation, praises Tripitikas for fulfilling the prophecy and allows him for one wish, which he asks to return home.\nTripitikas finds himself back in the present. He overpowers Lupo and drives the other hooligans away. Hop survives from the wound and claims that he is immortal (hinting that he is actually Lu). Before the film ends, Jason is delighted to meet a woman who resembles Sparrow. Tripitikas continues honing his kung fu skills while Lu narrates the Kingâs search for truth.\n",
@@ -756,9 +756,9 @@ document_id,set,question,answer1,answer2,question_tokenized,answer1_tokenized,an
   "id": "/m/0gj6pd"
  }
 ]
-```
+```   
 -   [Drop - Eng](https://allennlp.org/drop)
-```text
+```text   
 {
   "nfl_1184": {
     "passage": " Hoping to rebound from their loss to the Patriots, the Raiders stayed at home for a Week 16 duel with the Houston Texans.  Oakland would get the early lead in the first quarter as quarterback JaMarcus Russell completed a 20-yard touchdown pass to rookie wide receiver Chaz Schilens.  The Texans would respond with fullback Vonta Leach getting a 1-yard touchdown run, yet the Raiders would answer with kicker Sebastian Janikowski getting a 33-yard and a 30-yard field goal.  Houston would tie the game in the second quarter with kicker Kris Brown getting a 53-yard and a 24-yard field goal. Oakland would take the lead in the third quarter with wide receiver Johnnie Lee Higgins catching a 29-yard touchdown pass from Russell, followed up by an 80-yard punt return for a touchdown.  The Texans tried to rally in the fourth quarter as Brown nailed a 40-yard field goal, yet the Raiders' defense would shut down any possible attempt.",
@@ -806,9 +806,9 @@ document_id,set,question,answer1,answer2,question_tokenized,answer1_tokenized,an
     "wiki_url": "https://en.wikipedia.org/wiki/Earl's_Court"
   }
 }
-```
+```   
 -   [MLQA - Multi-Lang](https://github.com/facebookresearch/MLQA)
-```text
+```text   
 {
   "version": 1,
   "data": [
@@ -834,9 +834,9 @@ document_id,set,question,answer1,answer2,question_tokenized,answer1_tokenized,an
     }
   ]
 }
-```
+```   
 -   [MRQA - Eng(Multi-Dataset)](https://github.com/mrqa/MRQA-Shared-Task-2019)
-```text
+```text   
 {
   "header": {
     "dataset": <dataset name>,
@@ -865,9 +865,9 @@ document_id,set,question,answer1,answer2,question_tokenized,answer1_tokenized,an
     ...
   ]
 }
-```
+```   
 -   [MultiQA - Eng(Multi-Dataset)](https://github.com/alontalmor/MultiQA)
-```text
+```text   
 {
  "id": "SQuAD_ba1f039e847c4fbd8930955effd64999",
  "context": {
@@ -976,11 +976,11 @@ document_id,set,question,answer1,answer2,question_tokenized,answer1_tokenized,an
   }
  ]
 }
-```
+```   
 
 ### User log
 -   [MSMARCO - Eng](http://www.msmarco.org/) 
-```text
+```text   
 {
 	"answers":["A corporation is a company or group of people authorized to act as a single entity and recognized as such in law."],
 	"passages":[
@@ -995,9 +995,9 @@ document_id,set,question,answer1,answer2,question_tokenized,answer1_tokenized,an
 	"query_type":"DESCRIPTION",
 	"wellFormedAnswers":"[]"
 }
-```
+```   
 -   [DuReader - Simplified-Chi](https://github.com/baidu/DuReader) 
-```text
+```text   
 {
  "is_selected": true,
  "title": "截至和截止有什么区别_百度知道",
@@ -1057,9 +1057,9 @@ document_id,set,question,answer1,answer2,question_tokenized,answer1_tokenized,an
  ],
  "bs_rank_pos": 1
 }
-```
+```   
 -   [MiningZhiDaoQACorpus - Simplified-Chi](https://github.com/liuhuanyong/MiningZhiDaoQACorpus)
-```text
+```text   
  {
         "_id" : ObjectId("5d36e599bc54f451543da02b"),
         "url" : "http://zhidao.baidu.com/question/2207667243516878988.html",
@@ -1071,9 +1071,9 @@ document_id,set,question,answer1,answer2,question_tokenized,answer1_tokenized,an
             "美国"
         ]
     }
-```
+```   
 -   [Triviaqa - Eng](http://nlp.cs.washington.edu/triviaqa/) 
-```text
+```text   
 {
   "Data": [
     {
@@ -1125,9 +1125,9 @@ document_id,set,question,answer1,answer2,question_tokenized,answer1_tokenized,an
   "VerifiedEval": false,
   "Version": 1.0
 }
-```
+```   
 -   [hotpotqa - Eng](https://hotpotqa.github.io/) 
-```text
+```text   
 [
  {
   "_id": "5a8b57f25542995d1e6f1371",
@@ -1238,9 +1238,9 @@ document_id,set,question,answer1,answer2,question_tokenized,answer1_tokenized,an
   "level": "hard"
  }
 ]
-```
+```   
 -   [CoQA - Eng](https://stanfordnlp.github.io/coqa/) 
-```text
+```text   
 {
  "version": "1.0",
  "data": [
@@ -1356,9 +1356,9 @@ document_id,set,question,answer1,answer2,question_tokenized,answer1_tokenized,an
   }
  ]
 }
-```
+```   
 -   [QUASAR - Eng](https://github.com/bdhingra/quasar)  
-```text
+```text   
 quasar-s/questions
 {
  "answer": "php",
@@ -1378,9 +1378,9 @@ quasar-s/contexts
     ]
   ]
 }
-```
+```   
 -   [SearchQA - Eng](https://github.com/nyu-dl/SearchQA)
-```text
+```text   
 [
   {
     "category": "HISTORY",
@@ -1392,9 +1392,9 @@ quasar-s/contexts
     "show_number": "4680"
   }
 ]
-```
+```   
 -   [ComplexWebQuestions - Eng](https://www.tau-nlp.org/compwebq)
-```text
+```text   
 [
  {
   "ID": "WebQTest-832_c334509bb5e02cacae1ba2e80c176499",
@@ -1407,15 +1407,15 @@ quasar-s/contexts
   "webqsp_question": "when is the last time the giants won the world series"
  }
 ]
-```
+```   
 -   [CKBQA - Simplified-Chi](https://github.com/pkumod/CKBQA)
-```text
+```text   
 q1546:列出中国曾获柏林国际电影节金熊奖的导演？
 select ?x where { ?x <职业> <导演>. ?x <国籍> <中华人民共和国>. ?x <主要成就> "威尼斯国际电影节金狮奖". }
 <张艺谋>	<贾樟柯>
-```
+```   
 -   [TF 2.0 QA - Eng](https://www.kaggle.com/c/tensorflow2-question-answering)
-```text
+```text   
 {
  "example_id": "8777415633185303067",
  "question_text": "the office episode when they sing to michael",
@@ -1433,23 +1433,23 @@ select ?x where { ?x <职业> <导演>. ?x <国籍> <中华人民共和国>. ?x 
   }
  ]
 }
-```
+```   
 -   [bAbI - Eng](https://github.com/facebook/bAbI-tasks)
-```text
+```text   
 ID text
 ID text
 ID text
 ID question[tab]answer[tab]supporting fact IDS.
-```
+```   
 -   [Physical IQA - Eng](https://leaderboard.allenai.org/physicaliqa/submissions/public)
-```text
+```text   
 {
  "id": "f6be5fcc-d686-4549-8207-7904068693d7",
  "goal": "When boiling butter, when it's ready, you can",
  "sol1": "Pour it onto a plate",
  "sol2": "Pour it into a jar"
 }
-```
+```   
 -----
 ### Contributing
 Have anything in mind that you think is awesome and would fit in this list? Feel free to send a [pull request](https://github.com/voidful/awesome-reading-comprehension-dataset). 
