@@ -1400,12 +1400,6 @@ quasar-s/contexts
  }
 ]
 ```   
--   [CKBQA - Simplified-Chi](https://github.com/pkumod/CKBQA)
-```   
-q1546:列出中国曾获柏林国际电影节金熊奖的导演？
-"select ?x where { ?x <职业> <导演>. ?x <国籍> <中华人民共和国>. ?x <主要成就> "威尼斯国际电影节金狮奖". }"
-<张艺谋><贾樟柯>
-```   
 -   [TF 2.0 QA - Eng](https://www.kaggle.com/c/tensorflow2-question-answering)
 ```   
 {
@@ -1442,6 +1436,15 @@ ID question[tab]answer[tab]supporting fact IDS.
  "sol2": "Pour it into a jar"
 }
 ```   
+-   [CKBQA - Simplified-Chi](https://github.com/pkumod/CKBQA)
+```    
+[
+q1546:列出中国曾获柏林国际电影节金熊奖的导演？
+select ?x where { ?x <职业> <导演>. ?x <国籍> <中华人民共和国>. ?x <主要成就> "威尼斯国际电影节金狮奖". }
+<张艺谋><贾樟柯>
+]
+```    
+
 -----
 ### Contributing
 Have anything in mind that you think is awesome and would fit in this list? Feel free to send a [pull request](https://github.com/voidful/awesome-reading-comprehension-dataset). 
