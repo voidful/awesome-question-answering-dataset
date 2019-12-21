@@ -1438,11 +1438,9 @@ ID question[tab]answer[tab]supporting fact IDS.
 ```   
 -   [CKBQA - Simplified-Chi](https://github.com/pkumod/CKBQA)
 ```    
-[
-q1546:列出中国曾获柏林国际电影节金熊奖的导演？
-select ?x where { ?x <职业> <导演>. ?x <国籍> <中华人民共和国>. ?x <主要成就> "威尼斯国际电影节金狮奖". }
-<张艺谋><贾樟柯>
-]
+q1:"成败一知己，生死两妇人"所说的人物有什么重大成就？
+select ?y where { <成败一知己，生死两妇人> <主要人物> ?x . ?x <主要成就> ?y . }
+"垓下破 项羽"	"潍水杀 龙且"	"虏魏"	"下燕"	"破代"	"平赵"	"定齐"
 ```    
 
 -----
