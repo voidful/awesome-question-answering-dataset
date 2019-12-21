@@ -14,34 +14,29 @@ A list of awesome question answering dataset
 
 ### Multiple choice
 -   [MC Test - Eng](https://github.com/voidful/mctest)  
-```text   
+```   
 ***************************************************
 Story:            mc160.test.0
 Author:           138354254
 Work Time(s):     3100
-
 Todd is a small boy in the town of Rocksville. Todd thinks his town is the best place in the world, and out of all the places in Rocksville, Todd loves to play in Lake Keet the most. Lake Keet is a small lake with fish, plants, and even little shells. Todd's favorite part was the big rock in the middle of the lake. Todd lives pretty close to the lake, so he gets to go there a lot, but could never to get to the rock in the middle. Todd's dad never lets him swim too far because Todd can't swim very well.
 During summer, Todd told his dad that he wanted to get to the rock before break ended. Todd's dad told him he had to try his hardest. If he did, then Todd's dad would watch him swim every day. If Todd wanted to try and get to the rock, his dad would follow him there to make sure he was safe. Todd's dad wrote this down in his notebook so he wouldn't forget.
 After a week, Todd made his first try to get to the rock, and his dad followed him like he said he would. Todd didn't make it to the rock before he got tired and had to turn around. He practiced even harder for the next two weeks and wanted to try again. So, a month after summer started, Todd tried to reach the rock again. This time, Todd gave it his all and got all the way to the rock. He was very happy, and his dad was very proud of his son's hard work. To celebrate, Todd's dad carved Todd's name and the date into a tree. This way, they would always remember Todd's hard work.
-
 1: multiple: How long was it before Todd made it to the rock?
  A) One month
  B) One week
  C) Two weeks
  D) Two months
-
 2: multiple: What did Todd have to do so his dad would watch him every day?
  A) Try his hardest
  B) Follow his dad to the rock
  C) Get to the big rock
  D) Not swim too far
-
 3: one: What was Todd's favorite part of Lake Keet?
  A) The plants
  B) The big rock
  C) The fish
  D) The small shells
-
 4: one: How did Todd's dad celebrate Todd's hard work?
  A) He wrote down Todd's name and the date in his notebook
  B) He carved Todd's name into a tree
@@ -49,7 +44,7 @@ After a week, Todd made his first try to get to the rock, and his dad followed h
  D) He swam to the rock again
 ```   
 -   [TOEFL-QA - Eng](https://github.com/iamyuanchung/TOEFL-QA)  
-```text   
+```   
 SENTENCE hi .
 SENTENCE i saw your ad in the campus news paper .
 SENTENCE oh .
@@ -114,7 +109,7 @@ OPTION to see if she can change a previous print order 0
 OPTION to discuss a design idea that she has for business cards 0
 ```   
 -   [MultiRC - Eng](http://cogcomp.org/multirc/)
-```text   
+```   
 {
  "data": [
   {
@@ -142,7 +137,7 @@ OPTION to discuss a design idea that she has for business cards 0
 }
 ```   
 -   [RACE - Eng](http://www.cs.cmu.edu/~glai1/data/race/)
-```text   
+```   
 {
  "answers": [
   "A",
@@ -171,7 +166,7 @@ OPTION to discuss a design idea that she has for business cards 0
 }
 ```   
 -   [CommonsenseQA - Eng](https://www.tau-nlp.org/commonsenseqa)  
-```text   
+```   
 {
  "answerKey": "A",
  "id": "1afa02df02c908a558b4036e80242fac",
@@ -209,7 +204,7 @@ id,context,question,answer0,answer1,answer2,answer3,label
 3BFF0DJK8XA7YNK4QYIGCOG1A95STE##3180JW2OT5AF02OISBX66RFOCTG5J7##A2LTOS0AZ3B28A##Blog_56156##q1_a1##378G7J1SJNCDAAIN46FM2P7T6KZEW2,"Do i need to go for a legal divorce ? I wanted to marry a woman but she is not in the same religion , so i am not concern of the marriage inside church . I will do the marriage registered with the girl who i am going to get married . But legally will there be any complication , like if the other woman comes back one day , will the girl who i am going to get married now will be in trouble or Is there any complication ?",Why is this person asking about divorce ?,If he gets married in the church he wo nt have to get a divorce .,He wants to get married to a different person .,He wants to know if he does nt like this girl can he divorce her ?,None of the above choices .,1
 ```   
 -   [C3 - Simplified-Chi](https://dataset.org/c3/)
-```text   
+```   
 [
  [
   [
@@ -235,7 +230,7 @@ id,context,question,answer0,answer1,answer2,answer3,label
 
 ### Cloze style
 -  [CNN/Daily Mail - Eng](https://github.com/deepmind/rc-data)  
-```text   
+```   
 [URL]
 
 [Context]
@@ -247,13 +242,13 @@ id,context,question,answer0,answer1,answer2,answer3,label
 [Entity mapping]
 ```   
 -  [LAMBADA - Eng](https://zenodo.org/record/2630551)  
-```text   
+```   
 Context: The battery on Logan’s radio must have been on the way out. So he told himself. There was no other explanation beyond Cygan and the staff at the White House having been overrun. Lizzie opened her eyes with a flutter. They had been on the icy road for an hour without incident.
 Target sentence: Jack was happy to do all of the . Target word: driving
 ...
 ```   
 -  [Children's Book Test (CBT) - Eng](https://research.facebook.com/research/babi/)  
-```text   
+```   
 Context:
 1 So they had to fall a long way .	
 2 So they got their tails fast in their mouths .	
@@ -275,22 +270,19 @@ Context:
 18 `` I mean , what makes them so shiny ? "	
 19 Alice looked down at them , and considered a little before she gave her answer .	
 20 `` They 're done with blacking , I believe . "	
-
 Query: `` Boots and shoes under the sea , " the XXXXX went on in a deep voice , `` are done with a whiting ".
-
 Candidates: Alice|BOOTS|Gryphon|SHOES|answer|fall|mouths|tone|way|whiting	
-	
 Answer: gryphon 
 ```   
 -  [PD&CFT - Simplified-Chi](https://github.com/ymcui/Chinese-RC-Dataset)  
-```text   
+```   
 9 ||| 所谓 的 “ 傻钱 ” XXXXX ， 其实 就 是 买 入 并 持有 美国 股票 这样 的 普通 组合 。
 10 ||| 这个 策略 要 比 对冲 基金 和 其它 专业 投资者 使用 的 更为 复杂 的 投资 方法 效果 好 得 多 。
 11 ||| 所谓 的 “ 傻钱 ” XXXXX ， 其实 就 是 买 入 并 持有 美国 股票 这样 的 普通 组合 。 ||| 策略
 sentence_id(space)|||(space)Query(space)|||(space)Answer
 ```   
 -  [CliCR - Eng](https://github.com/clips/clicr)
-```text   
+```   
 passage:
 [. . . ] A gradual improvement in clinical and laboratory status was achieved within 20 days of antituberculous treatment . The patient was then subjected to a thoracic CT scan that also showed significant radiological improvement . Thereafter , tapering of corticosteroids was initiated with no clinical relapse . The patient was discharged after being treated for a total of 30 days and continued receiving antituberculous therapy with no reported problems for a total of 6 months under the supervision of his hometown physicians . [. . . ] query:
 If steroids are used , great caution should be exercised on their gradual tapering to avoid .
@@ -298,7 +290,7 @@ answer:
 relapse (sem type=problem, cui=C0035020)
 ```   
 -  [RecipeQA - Eng](https://hucvl.github.io/recipeqa/)
-```text   
+```   
 {
   "data": [
     {
@@ -373,7 +365,7 @@ relapse (sem type=problem, cui=C0035020)
 
 ### Span Based
 -   [SQuAD - Eng](https://rajpurkar.github.io/SQuAD-explorer/)  
-```text   
+```   
 {
   "version": "v2.0",
   "data": [
@@ -414,7 +406,7 @@ relapse (sem type=problem, cui=C0035020)
 }
 ```   
 -   [NewsQA - Eng](https://datasets.maluuba.com/NewsQA)  
-```text   
+```   
 {
     "data": [
         {
@@ -470,7 +462,7 @@ relapse (sem type=problem, cui=C0035020)
 }
 ```   
 -   [CMRC2018 - Simplified-Chi](https://hfl-rc.github.io/cmrc2018/task/)  
-```text   
+```   
 [
     {
         "title": "傻钱策略"
@@ -509,7 +501,7 @@ relapse (sem type=problem, cui=C0035020)
 ]
 ```   
 -   [DRCD - Traditional-Chi](https://github.com/DRCSolutionService/DRCD)  
-```text   
+```   
 {
 "version": "1.3",
 "data": [
@@ -629,7 +621,7 @@ document_id,set,question,answer1,answer2,question_tokenized,answer1_tokenized,an
 0025577043f5090cd603c6aea60f26e236195594,test,Where does this radio station take place?,It takes place in Mark's parents basement. ,"Phoenix, Arizona",Where does this radio station take place ?,It takes place in Mark s parents basement .,"Phoenix , Arizona"
 ```   
 -   [QAngaroo - Eng](http://qangaroo.cs.ucl.ac.uk/leaderboard.html)
-```text   
+```   
 [
  {
   "candidates": [
@@ -690,7 +682,7 @@ document_id,set,question,answer1,answer2,question_tokenized,answer1_tokenized,an
 ]
 ```   
 -   [QuAC - Eng](http://quac.ai/)
-```text   
+```   
 {
   "data": [
     {
@@ -738,7 +730,7 @@ document_id,set,question,answer1,answer2,question_tokenized,answer1_tokenized,an
 }
 ```   
 -   [DuoRC - Eng](https://duorc.github.io/)
-```text   
+```   
 [
  {
   "plot": "South Boston teenager Jason Tripitikas is a fan of martial arts films and awakens from a dream of a battle between the Monkey King and celestial soldiers in the clouds. He visits a pawn shop in Chinatown to buy Wuxia DVDs and discovers a golden staff. On his way home, Tripitikas is harassed by some hooligans, whose leader Lupo attempts to use him to help them rob the shop-owner Hop, who is shot by Lupo. Hop tells Tripitikas to deliver the staff to its rightful owner and Tripitikas flees with the staff. He is cornered on the rooftop before being pulled off the roof by the staff.\nWhen Tripitikas regains consciousness, he finds himself in a village in ancient China that is under attack by armored soldiers. The soldiers see his staff and attempt to seize it. He is saved by the inebriated traveling scholar Lu Yan, a supposed \"immortal,\" who remains alert and agile even when drunk. Lu tells him the story of the rivalry between the King and the Jade Warlord. The Warlord tricked the King into setting aside his magic staff, Ruyi Jingu Bang, and transformed the immortal into a stone statue, but the King cast his staff far away before the transformation. Lu ends the tale with a prophecy about a \"Seeker\" who will find the staff and free the King. Just then, they are attacked by the Warlord's men again, but manage to escape with the help of Golden Sparrow, a young woman. She reveals that her family was murdered by the Warlord, against whom she has sworn revenge.\nMeanwhile, the Warlord, upon learning about the staff, sends the witch Ni-Chang to help him retrieve it in exchange for the elixir of immortality. Tripitikas, Lu and Sparrow meet a strange man dressed in white who takes the staff away from them. Lu fights with the man (later revealed to be the Silent Monk) for the staff until the latter realizes that Tripitikas is the Seeker, and joins them in their quest to free the King. As the four travel to Five Elements Mountain, Lu and the Monk teach Tripitikas kung fu along the way. After crossing a desert, they encounter Ni-Chang and her henchmen and a battle ensues, in which Lu is mortally wounded. Tripitikasâs team takes refuge in a monastery, where they learn that Lu is actually not an immortal as he failed the test, and only the Warlordâs elixir can save his life. In desperation, Tripitikas goes to the Warlord's palace alone to exchange the staff for the elixir.\nThe Warlord asks Tripitikas to duel Ni-Chang to death, since the former can give the elixir to only one of them. Tripitikas is overpowered until his teammates and monks from the monastery arrive to join the battle. Tripitikas manages to grab the elixir and tosses it to Lu, who drinks it and recovers. The Monk passes the staff to Tripitikas, who uses it to smash the King's statue. The King is freed and the Monk is revealed to be actually one of the King's clones. Lu kills Ni-Chang. After another long battle between the King and the Warlord, the latter is eventually stabbed by Tripitikas and falls into a lava pit to his death. However, Sparrow succumbs to her wounds. The Jade Emperor, having returned from his meditation, praises Tripitikas for fulfilling the prophecy and allows him for one wish, which he asks to return home.\nTripitikas finds himself back in the present. He overpowers Lupo and drives the other hooligans away. Hop survives from the wound and claims that he is immortal (hinting that he is actually Lu). Before the film ends, Jason is delighted to meet a woman who resembles Sparrow. Tripitikas continues honing his kung fu skills while Lu narrates the Kingâs search for truth.\n",
@@ -758,7 +750,7 @@ document_id,set,question,answer1,answer2,question_tokenized,answer1_tokenized,an
 ]
 ```   
 -   [Drop - Eng](https://allennlp.org/drop)
-```text   
+```   
 {
   "nfl_1184": {
     "passage": " Hoping to rebound from their loss to the Patriots, the Raiders stayed at home for a Week 16 duel with the Houston Texans.  Oakland would get the early lead in the first quarter as quarterback JaMarcus Russell completed a 20-yard touchdown pass to rookie wide receiver Chaz Schilens.  The Texans would respond with fullback Vonta Leach getting a 1-yard touchdown run, yet the Raiders would answer with kicker Sebastian Janikowski getting a 33-yard and a 30-yard field goal.  Houston would tie the game in the second quarter with kicker Kris Brown getting a 53-yard and a 24-yard field goal. Oakland would take the lead in the third quarter with wide receiver Johnnie Lee Higgins catching a 29-yard touchdown pass from Russell, followed up by an 80-yard punt return for a touchdown.  The Texans tried to rally in the fourth quarter as Brown nailed a 40-yard field goal, yet the Raiders' defense would shut down any possible attempt.",
@@ -808,7 +800,7 @@ document_id,set,question,answer1,answer2,question_tokenized,answer1_tokenized,an
 }
 ```   
 -   [MLQA - Multi-Lang](https://github.com/facebookresearch/MLQA)
-```text   
+```   
 {
   "version": 1,
   "data": [
@@ -836,7 +828,7 @@ document_id,set,question,answer1,answer2,question_tokenized,answer1_tokenized,an
 }
 ```   
 -   [MRQA - Eng(Multi-Dataset)](https://github.com/mrqa/MRQA-Shared-Task-2019)
-```text   
+```   
 {
   "header": {
     "dataset": <dataset name>,
@@ -867,7 +859,7 @@ document_id,set,question,answer1,answer2,question_tokenized,answer1_tokenized,an
 }
 ```   
 -   [MultiQA - Eng(Multi-Dataset)](https://github.com/alontalmor/MultiQA)
-```text   
+```   
 {
  "id": "SQuAD_ba1f039e847c4fbd8930955effd64999",
  "context": {
@@ -980,7 +972,7 @@ document_id,set,question,answer1,answer2,question_tokenized,answer1_tokenized,an
 
 ### User log
 -   [MSMARCO - Eng](http://www.msmarco.org/) 
-```text   
+```   
 {
 	"answers":["A corporation is a company or group of people authorized to act as a single entity and recognized as such in law."],
 	"passages":[
@@ -997,7 +989,7 @@ document_id,set,question,answer1,answer2,question_tokenized,answer1_tokenized,an
 }
 ```   
 -   [DuReader - Simplified-Chi](https://github.com/baidu/DuReader) 
-```text   
+```   
 {
  "is_selected": true,
  "title": "截至和截止有什么区别_百度知道",
@@ -1059,7 +1051,7 @@ document_id,set,question,answer1,answer2,question_tokenized,answer1_tokenized,an
 }
 ```   
 -   [MiningZhiDaoQACorpus - Simplified-Chi](https://github.com/liuhuanyong/MiningZhiDaoQACorpus)
-```text   
+```   
  {
         "_id" : ObjectId("5d36e599bc54f451543da02b"),
         "url" : "http://zhidao.baidu.com/question/2207667243516878988.html",
@@ -1073,7 +1065,7 @@ document_id,set,question,answer1,answer2,question_tokenized,answer1_tokenized,an
     }
 ```   
 -   [Triviaqa - Eng](http://nlp.cs.washington.edu/triviaqa/) 
-```text   
+```   
 {
   "Data": [
     {
@@ -1127,7 +1119,7 @@ document_id,set,question,answer1,answer2,question_tokenized,answer1_tokenized,an
 }
 ```   
 -   [hotpotqa - Eng](https://hotpotqa.github.io/) 
-```text   
+```   
 [
  {
   "_id": "5a8b57f25542995d1e6f1371",
@@ -1240,7 +1232,7 @@ document_id,set,question,answer1,answer2,question_tokenized,answer1_tokenized,an
 ]
 ```   
 -   [CoQA - Eng](https://stanfordnlp.github.io/coqa/) 
-```text   
+```   
 {
  "version": "1.0",
  "data": [
@@ -1358,7 +1350,7 @@ document_id,set,question,answer1,answer2,question_tokenized,answer1_tokenized,an
 }
 ```   
 -   [QUASAR - Eng](https://github.com/bdhingra/quasar)  
-```text   
+```   
 quasar-s/questions
 {
  "answer": "php",
@@ -1380,7 +1372,7 @@ quasar-s/contexts
 }
 ```   
 -   [SearchQA - Eng](https://github.com/nyu-dl/SearchQA)
-```text   
+```   
 [
   {
     "category": "HISTORY",
@@ -1394,7 +1386,7 @@ quasar-s/contexts
 ]
 ```   
 -   [ComplexWebQuestions - Eng](https://www.tau-nlp.org/compwebq)
-```text   
+```   
 [
  {
   "ID": "WebQTest-832_c334509bb5e02cacae1ba2e80c176499",
@@ -1409,13 +1401,13 @@ quasar-s/contexts
 ]
 ```   
 -   [CKBQA - Simplified-Chi](https://github.com/pkumod/CKBQA)
-```text   
+```   
 q1546:列出中国曾获柏林国际电影节金熊奖的导演？
 select ?x where { ?x <职业> <导演>. ?x <国籍> <中华人民共和国>. ?x <主要成就> "威尼斯国际电影节金狮奖". }
 <张艺谋>	<贾樟柯>
 ```   
 -   [TF 2.0 QA - Eng](https://www.kaggle.com/c/tensorflow2-question-answering)
-```text   
+```   
 {
  "example_id": "8777415633185303067",
  "question_text": "the office episode when they sing to michael",
@@ -1435,14 +1427,14 @@ select ?x where { ?x <职业> <导演>. ?x <国籍> <中华人民共和国>. ?x 
 }
 ```   
 -   [bAbI - Eng](https://github.com/facebook/bAbI-tasks)
-```text   
+```   
 ID text
 ID text
 ID text
 ID question[tab]answer[tab]supporting fact IDS.
 ```   
 -   [Physical IQA - Eng](https://leaderboard.allenai.org/physicaliqa/submissions/public)
-```text   
+```   
 {
  "id": "f6be5fcc-d686-4549-8207-7904068693d7",
  "goal": "When boiling butter, when it's ready, you can",
