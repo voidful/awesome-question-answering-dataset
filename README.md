@@ -232,13 +232,9 @@ id,context,question,answer0,answer1,answer2,answer3,label
 -  [CNN/Daily Mail - Eng](https://github.com/deepmind/rc-data)  
 ```   
 [URL]
-
 [Context]
-
 [Question]
-
 [Answer]
-
 [Entity mapping]
 ```   
 -  [LAMBADA - Eng](https://zenodo.org/record/2630551)  
