@@ -1438,7 +1438,61 @@ q1:"成败一知己，生死两妇人"所说的人物有什么重大成就？
 select ?y where { <成败一知己，生死两妇人> <主要人物> ?x . ?x <主要成就> ?y . }
 "垓下破 项羽"	"潍水杀 龙且"	"虏魏"	"下燕"	"破代"	"平赵"	"定齐"
 ```    
-
+-   [Topical-Chat - Eng](https://github.com/alexa/alexa-prize-topical-chat-dataset/)
+```
+{
+<conversation_id>: {
+	“article_url”: <article url>,
+	“config”: <config>, # one of A,B,C, D
+	“content”: [ # ordered list of conversation turns
+		{ 
+		“agent”: “agent_1”, # or “agent_2”,
+		“message” : <message text>,
+		“sentiment”: <text>,
+		“knowledge_source” : [“AS1”, “Personal Knowledge”,...],
+		“turn_rating”: “Poor”, # Note: changed from number to actual annotated text
+		},…
+	],
+	“conversation_rating”: {
+		“agent_1”: “Good”,
+		“agent_2”: “Excellent”
+		}
+}
+{
+<conversation_id> : {
+	“config” : <config>,
+    “agent_1”: {
+	    “FS1”: {
+		 “entity”: <entity name>,
+		 “shortened_wiki_lead_section”: <section text>,
+		 “fun_facts”: [ <fact1_text>, <fact2_text>,…]
+		    },
+	    “FS2”:…
+                    },
+        ....
+        },
+    “agent_2”: {
+	    “FS1”: {
+		 “entity”: <entity name>,
+		 “shortened_wiki_lead_section”: <section text>,
+		 “fun_facts”: [ <fact1_text>, <fact2_text>,…],
+	            },
+	    “FS2”:…
+                    },
+        ...
+        },
+    “article”: {
+		“url”: <url>,
+		“headline” : <headline text>,
+		“AS1”: <section 1 text>,
+		“AS2”: <section 2 text>,
+		“AS3”: <section 3 text>,
+		“AS4”: <section 4 text>
+	    }
+	}
+…
+}
+```
 -----
 ### Contributing
 Have anything in mind that you think is awesome and would fit in this list? Feel free to send a [pull request](https://github.com/voidful/awesome-reading-comprehension-dataset). 
